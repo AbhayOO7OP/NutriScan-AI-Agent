@@ -1,0 +1,5 @@
+{
+    "diabetic": false,
+    "allergies": ["milk", "nuts"],
+    "diet": "normal"
+}
